@@ -187,6 +187,7 @@ case $4 in
     *)
         echo -e "$4 is not a valid modifier. Run './rrename.sh help' for more information."
         exit 5
+        ;;
 esac
 
 
