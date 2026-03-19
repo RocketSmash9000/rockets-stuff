@@ -7,4 +7,6 @@ Also don't expect me to make the next powerful script that will make your life e
 
 If you're reading this, maybe consider starring this repo? :D
 
+If you wanna run the PowerShell scripts, you can run them pressing `Win + R` and pasting `powershell.exe -noexit -ExecutionPolicy Bypass -File "C:\path\to\script.ps1"` to the run dialog. Or you can navigate to where the script is and type `cmd` in the navigation bar. That'll open a CMD where the script is located. That way you can do `powershell.exe -noexit -ExecutionPolicy Bypass -File "script.ps1"`. Remember to replace the script path and script name with the actual values.
+
 Anyway have a good day bye 👋
