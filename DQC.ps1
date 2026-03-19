@@ -8,7 +8,6 @@
 
 # === Setup ===
 $path = Join-Path $env:LOCALAPPDATA "PTB_2024\Saved\Config\Windows\GameUserSettings.ini"
-$path_settings = Join-Path $env:LOCALAPPDATA "PTB_2024\Saved\Config\Windows\DFH.cfg"
 
 # === Code ===
 cls
